@@ -24,6 +24,8 @@ CatBounce始终保证开源，所有CatBounce用户都可以获得源代码
 
 ——猫柒团队
 
+---------------------------------------------
+
 Aim at HuaYuTing Revision of LiquidBounce Version:1.12.2
 
 Use of this source code must comply with the GPL3.0 protocol,Otherwise we and the CCBlucX team have the right to hold you accountable
